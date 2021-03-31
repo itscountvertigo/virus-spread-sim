@@ -7,7 +7,9 @@ There are 3 files:
 - full_lockdown_case.py, this has the same self-quarantining effect as self_quarantine_case.py, but everyone is slowed.
 
 ## Results
-Here are the results, exported as PNG sequences and converted to gifs with [EzGif](https://ezgif.com/)
+Here are the results, exported as PNG sequences and converted to gifs with [EzGif](https://ezgif.com/). 
+
+In the following diagrams, green is healthy, red is infected, blue is immune and grey is dead. 
 
 ### no_lockdown_case.py
 
