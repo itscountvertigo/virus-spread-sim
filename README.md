@@ -35,6 +35,7 @@ This is the harshest version, where everyone is slowed too. This is the longest 
 To start off, this isn't the most efficient code. I knew that, and didn't write it to be efficient because it's main purpose is rendering/exporting and it doesn't have to run perfectly for that.
 
 There's also the scientific perspective of what could be better:
+- If you've survived the virus, you gain immunity in this simulation. That's not what happens in real life, but it's the best I could do in the time I had.
 - Most values are chosen somewhat randomly, and don't properly resemble the real workings of COVID. Some were chosen with intent, i've commented sources for those in the code.
 - I haven't taken population density into account, the number of people are also chosen pretty arbitrarily. You're free to try it with different values, if you'd like.
 - People don't avoid infected people, even in the self-quarantining simulations.
