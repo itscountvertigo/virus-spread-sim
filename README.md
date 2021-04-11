@@ -44,7 +44,7 @@ There's also the scientific perspective of what could be better:
 - Lastly, we aren't bouncing balls
 
 ## How to install it
-To install it, you'll need to have Python 3 installed. <ake sure you have the following modules too:
+To install it, you'll need to have Python 3 installed. Make sure you have the following modules too:
 - matplotlib (you can install matplotlib with ```pip install matplotlib```)
 - numpy (you can install numpy with ```pip install numpy```)
 
